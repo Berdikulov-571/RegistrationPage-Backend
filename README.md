@@ -1,1 +1,1 @@
-This is registration Page backend 
+Registration Page
