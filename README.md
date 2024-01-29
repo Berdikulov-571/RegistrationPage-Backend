@@ -1,1 +1,3 @@
-This is amazing project
+Full Stack Project
+Backend: .net
+Frontend: Angular
